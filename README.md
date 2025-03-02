@@ -8,14 +8,14 @@
 - 🌊 Working on satellite imagery analysis for coastal erosion  
 - 💻 Backend development with **Node.js** and **Express**
 
-![Tech GIF](https://media.giphy.com/media/5GoVLqeAOo6PK/giphy.gif)
+![Tech GIF](https://media.giphy.com/media/3oKIPKZk4FdXBKMhZm/giphy.gif)
 
 ---
 
 ### 👯 **Looking to Collaborate On**
 - Open-source projects related to web development, technology solutions, and more!
 
-![Collaboration GIF](https://media.giphy.com/media/l3q2K5jlPczFXt6iM/giphy.gif)
+![Collaboration GIF](https://media.giphy.com/media/3o7aD7zEXgVRE1hLfG/giphy.gif)
 
 ---
 
@@ -31,6 +31,6 @@
 ### 🚀 Fun fact  
 - I’m a huge fan of **games** 🎮 and love watching **anime** 🎥🍿
 
-![Anime GIF](https://media.giphy.com/media/3o7TKqfeXmmPb3Fd1m/giphy.gif)
+![Anime GIF](https://media.giphy.com/media/5GoVLqeAOo6PK/giphy.gif)
 
 ---
