@@ -17,9 +17,7 @@
 
 ### 💬 **Ask me about**  
 - **Frontend**: HTML, CSS, JavaScript  
-- **Backend**: Node.js, Express  
-- **Tech**: Geospatial data, web development, and more!
-- 
+- **Backend**: Node.js, Express, java
 ---
 
 ### 🚀 Fun fact  
