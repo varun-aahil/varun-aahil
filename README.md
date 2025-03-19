@@ -1,6 +1,6 @@
 # Hey there! 👋 I’m Varun
 
-💡 **Passionate about tech** | 🚀 **GSoC '25 Contributor** | 🌱 **Learning & Exploring New Technologies**
+💡 **Passionate about tech**  | 🌱 **Learning & Exploring New Technologies**
 
 ---
 
