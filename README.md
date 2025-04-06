@@ -16,7 +16,7 @@
 ---
 
 ### 💬 **Ask me about**  
-- **Frontend**: HTML, CSS, JavaScript,React.js  
+- **Frontend**: HTML, CSS, JavaScript, React.js  
 - **Backend**: Node.js, Express.js, java
 - **Databases**: MySQL, PostgreSQL
 ---
