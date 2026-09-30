@@ -24,7 +24,7 @@ Embeds PDFs, clusters them into an interactive 2D map, and lets you chat with th
 **[Twitter Sentiment Classifier](https://github.com/varun-aahil/realtime-sentiment-fastapi)** — 91% macro F1
 4-class sentiment model (TF-IDF + LinearSVC) on ~75K tweets, compared against Naive Bayes and Logistic Regression baselines. Served through FastAPI with a live dashboard.
 
-**[Multi-Model ML Hub](https://github.com/varun-aahil)** <!-- TODO: add repo link once created -->
+**[Multimodel Hub](https://github.com/varun-aahil/multi-model-hub)**
 One FastAPI service unifying four independently trained models — fraud detection, price prediction, image classification, sentiment analysis — behind dedicated endpoints and a shared dashboard.
 
 **[Credit Card Fraud Detection](https://github.com/varun-aahil/credit-card-fraud-detection)**
@@ -46,13 +46,6 @@ Deep learning projects to round out the ML/DL side of my portfolio:
 **GenAI/NLP:** RAG · Embeddings · Vector Search (pgvector) · LLM integration (OpenAI, Gemini, Ollama)
 **Backend & Infra:** FastAPI · Docker · PostgreSQL · Git
 **Core:** Python · NumPy · Pandas · SQL
-
-### 📊 GitHub stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=varun-aahil&show_icons=true&theme=default" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=varun-aahil&layout=compact" height="165" />
-</p>
 
 ---
 
